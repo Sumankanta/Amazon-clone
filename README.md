@@ -1,7 +1,7 @@
 
 # Amazon Clone Website
 
-![Amazon Clone](link_to_your_image)
+Link : https://sumankanta.github.io/Amazon-clone/
 
 ## Overview:
 
